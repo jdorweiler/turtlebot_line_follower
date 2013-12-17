@@ -1,0 +1,17 @@
+<package>
+  <description brief="line_follower">
+
+     line_follower
+
+  </description>
+  <author>turtlebot-lenovo</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/line_follower</url>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+  <depend package="turtlebot_node"/>
+
+</package>
+
+
